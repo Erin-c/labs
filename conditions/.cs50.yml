@@ -1,2 +1,3 @@
 lab50:
-  file: mario.py
+  files: 
+    - !include mario.py
