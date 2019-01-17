@@ -1,2 +1,3 @@
 lab50:
-  files: types.py
+  files: 
+    - types.py
