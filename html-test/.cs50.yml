@@ -1,4 +1,8 @@
 lab50:
+  windows:
+  - editor
+  - browser
+  - terminal
   cmd: alias check50="echo 'Unavailable for this lab'"
   files:
     - !exclude "*"
